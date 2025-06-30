@@ -1,0 +1,11 @@
+{
+  "buildCommand": "echo Build complete",
+  "outputDirectory": ".",
+  "functions": {},
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
