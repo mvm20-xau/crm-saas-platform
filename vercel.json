@@ -1,7 +1,6 @@
 {
   "buildCommand": "echo Build complete",
   "outputDirectory": ".",
-  "functions": {},
   "routes": [
     {
       "src": "/(.*)",
